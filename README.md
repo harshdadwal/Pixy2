@@ -8,3 +8,9 @@ Files related to PixyCam 2
 ![Front](pixy2_front_labeled.jpg)
 
 
+![Back1](pixy2_back_labeled.jpg)
+
+
+
+
+
