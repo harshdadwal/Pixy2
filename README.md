@@ -1,4 +1,4 @@
-# *PixyCam2*
+# PixyCam2
 Files related to PixyCam 2
 
 
